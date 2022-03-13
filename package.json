@@ -1,5 +1,5 @@
 {
-    "name": "@pocket-rocket-gmbh/capacitor-video-recorder",
+    "name": "@pocketrocketgmbh/capacitor-video-recorder",
     "version": "5.0.0",
     "description": "Records video",
     "main": "dist/plugin.cjs.js",
