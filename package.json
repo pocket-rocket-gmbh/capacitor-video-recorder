@@ -1,5 +1,5 @@
 {
-    "name": "@teamhive/capacitor-video-recorder",
+    "name": "@pocket-rocket-gmbh/capacitor-video-recorder",
     "version": "5.0.0",
     "description": "Records video",
     "main": "dist/plugin.cjs.js",
@@ -16,10 +16,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TeamHive/capacitor-video-recorder.git"
+        "url": "git+https://github.com/pocket-rocket-gmbh/capacitor-video-recorder"
     },
     "bugs": {
-        "url": "https://github.com/TeamHive/capacitor-video-recorder/issues"
+        "url": "https://github.com/pocket-rocket-gmbh/capacitor-video-recorder/issues"
     },
     "keywords": [
         "capacitor",
